@@ -11,5 +11,5 @@ transcriptomics.
 - 📄 Publications: first-author work in *Nucleic Acids Research*, manuscript under review at
   *Nature Methods*, co-authored work in *Nature Genetics*
 - 🛠️ Python · R · Snakemake · HPC/cluster computing
-- 📫 [LinkedIn](https://linkedin.com/in/miguel-barquin-del-romo) · [ORCID](https://orcid.org/0000-0002-5928-9350) ·
+- 📫 [LinkedIn](https://linkedin.com/in/miguel-barquin-del-romo-a04a381b9) · [ORCID](https://orcid.org/0000-0002-5928-9350) ·
   [Google Scholar](https://scholar.google.com/citations?user=6Yga7foAAAAJ)
