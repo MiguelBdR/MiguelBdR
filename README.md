@@ -1,4 +1,4 @@
-### Miguel Barquín del Romo
+### Miguel Barquin del Romo
 
 Bioinformatician & molecular biologist finishing a PhD (Dr. rer. nat.) at the University of Konstanz.
 Working on alternative polyadenylation and transcriptome diversity — combining 5 years of wet-lab
